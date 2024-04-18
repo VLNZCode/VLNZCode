@@ -30,3 +30,6 @@
 <br>
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={VLNZCode}&theme=blue-green)
+![](https://starchart.cc/{VLNZCode}/{repo}.svg)
