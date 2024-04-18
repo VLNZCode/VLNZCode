@@ -17,7 +17,7 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+<br>
 # 🙇 Learning:
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -26,7 +26,6 @@
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SEQUELIZE](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
-
-
+<br>
 # 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username={VLNZCode}&theme=blue-green)
